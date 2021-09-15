@@ -34,7 +34,7 @@ const cursos = [
     "title": "GYM in CDMX,Mexico",
     "image": "https://fondosmil.com/fondo/4059.jpg",
     "price": "100 USA",
-    "location": "Efrain",
+    "location": "Location in Location in Vegas Nevada",
     "link":"More information",
     "URL:":"uamex.mx"
   },
@@ -55,10 +55,10 @@ const cursos = [
     "URL:":"uamex.mx"
   },
   {
-    "title": "GYM in Madris,Spain",
+    "title": "GYM in Madrid,Spain",
     "image": "https://wallpaperaccess.com/full/804836.jpg",
     "price": "10 EUROS",
-    "location": "Irene",
+    "location": "Location in Madrid, Spain ",
     "link":"More information",
     "URL:":"uaemex.mx"
   },
